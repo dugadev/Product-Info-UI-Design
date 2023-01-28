@@ -7,6 +7,7 @@ body {
 .font {
     font-family: Poppins !important;
     font-weight: bold;
+    font-size: 19.5px !important;
 }
 
 .btn-outline-gray {
@@ -35,4 +36,12 @@ body {
 .btn-primary {
     background-color: #f1c6cc !important;
 
+}
+
+.font-sub{
+font-family: Poppins;
+    font-weight: 100 !important;
+    font-size: 11px !important;
+    font-weight: bold !important;
+    color: #000000;
 }
