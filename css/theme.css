@@ -4,6 +4,35 @@ body {
     background-color: #EBF3FB !important;
 }
 
-.font{
+.font {
+    font-family: Poppins !important;
+    font-weight: bold;
+}
+
+.btn-outline-gray {
+    border-color: #EBF3FB !important;
+    border-width: 2px !important;
+}
+
+.font-price {
     font-family: Poppins;
+    font-weight: bold;
+}
+
+.font-ds {
+    font-family: Poppins;
+    font-weight: 100 !important;
+    font-size: 11px !important;
+    color: #9eabb9;
+}
+
+.badge {
+    font-family: Poppins;
+    font-size: 11px !important;
+    color: #f0f6fc !important;
+}
+
+.btn-primary {
+    background-color: #f1c6cc !important;
+
 }
