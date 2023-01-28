@@ -34,8 +34,11 @@ body {
 }
 
 .btn-primary {
-    background-color: #f1c6cc !important;
+    background-color: #e9c0c5 !important;
+}
 
+.btn-primary:hover{
+    background-color: #f4b6bb !important;
 }
 
 .font-sub{
@@ -44,4 +47,7 @@ font-family: Poppins;
     font-size: 11px !important;
     font-weight: bold !important;
     color: #000000;
+}
+.spinner-grow-sm{
+    color: #01d98b;
 }
